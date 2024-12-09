@@ -2,7 +2,7 @@
 
 A **realtime device tracking application** where multiple users can see their live location on the map. This app uses **Socket.IO** to send and receive location updates and displays them on a map powered by **Leaflet.js**.
 
-![Realtime Device Tracker](file:///C:/Users/LENOVO/Desktop/Realtime-device-tracker/images/realtime-device-tracker.png)  
+![Realtime Device Tracker](https://github.com/sumitprajapati1/Realtime-Device-Tracker/blob/master/images/realtime-device-tracker.png?raw=true)  
 
 ## **Live Demo**
 Check out the live project: [Realtime Device Tracker](https://realtime-device-tracker-1-osqo.onrender.com)
